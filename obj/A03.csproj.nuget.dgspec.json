@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AES - 2DS\\DS\\A03Colecoes\\A03.csproj": {}
+    "D:\\andre\\DS\\ATV2\\A03.csproj": {}
   },
   "projects": {
-    "E:\\AES - 2DS\\DS\\A03Colecoes\\A03.csproj": {
+    "D:\\andre\\DS\\ATV2\\A03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AES - 2DS\\DS\\A03Colecoes\\A03.csproj",
+        "projectUniqueName": "D:\\andre\\DS\\ATV2\\A03.csproj",
         "projectName": "A03",
-        "projectPath": "E:\\AES - 2DS\\DS\\A03Colecoes\\A03.csproj",
+        "projectPath": "D:\\andre\\DS\\ATV2\\A03.csproj",
         "packagesPath": "D:\\NugetPackages",
-        "outputPath": "E:\\AES - 2DS\\DS\\A03Colecoes\\obj\\",
+        "outputPath": "D:\\andre\\DS\\ATV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

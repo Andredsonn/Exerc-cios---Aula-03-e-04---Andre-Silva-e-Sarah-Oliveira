@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\andre\\DS\\ATV2\\A03.csproj",
+      "projectUniqueName": "D:\\Aula - 2DS - Noturno\\DS\\ATV Andre e Sarah\\A03.csproj",
       "projectName": "A03",
-      "projectPath": "D:\\andre\\DS\\ATV2\\A03.csproj",
+      "projectPath": "D:\\Aula - 2DS - Noturno\\DS\\ATV Andre e Sarah\\A03.csproj",
       "packagesPath": "D:\\NugetPackages",
-      "outputPath": "D:\\andre\\DS\\ATV2\\obj\\",
+      "outputPath": "D:\\Aula - 2DS - Noturno\\DS\\ATV Andre e Sarah\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
